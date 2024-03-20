@@ -1,3 +1,0 @@
-# RyanZong2233.github.io
-
-Here is my personal website! And I am working on it...
