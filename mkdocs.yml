@@ -1,3 +1,9 @@
-site_name: RyanZong
-site_url: https://RyanZong.github.io/home
-site_author: Zong Yiming
+site_name: Ryan Zong
+nav:
+  - Home: index.md
+
+plugins:
+  - search
+
+site_url: "https://RyanZong2233.github.io/test"
+repo_url: "https://github.com/RyanZong2233/test"
